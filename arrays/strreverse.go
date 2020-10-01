@@ -1,5 +1,6 @@
 package arrays
 
+// only ASCII
 func reverseArray(ap *[]byte) *[]byte {
 	a := *ap
 	left := 0
